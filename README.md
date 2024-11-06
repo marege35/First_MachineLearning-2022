@@ -80,9 +80,18 @@ The project explored various machine learning models, revealing the benefits and
 This project demonstrates the utility of machine learning in predicting diabetes. By exploring different algorithms and preprocessing steps, we can create a model that supports early diagnosis and potentially improves patient outcomes. The comparison of multiple algorithms highlights the value of ensemble methods, especially Gradient Boosting, for structured datasets like this one.
 
 ## References
-International Diabetes Federation. (https://www.idf.org/about-diabetes)
-World Health Organization, Diabetes Programme. (http://www.who.int/diabetes/en/)
-Kaggle Dataset: Pima Indians Diabetes Database. (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
-Noroff Computational Intelligence Module Documentation
-Matplotlib Documentation. (https://matplotlib.org/)
-"Prevod-PrimorskeNovice-form", Vishwaguru Mahamandaleshwar Paramhans Swami Maheshwaranda.
+- International Diabetes Federation: About Diabetes(http://www.idf.org/about-diabetes)
+- IDF: Diabetes Facts & Figures(https://www.idf.org/aboutdiabetes/what-is-diabetes/facts-figures.html)
+- WHO: Diabetes Programme (http://www.who.int/diabetes/en/)
+- Pima Indians Diabetes Database on Kaggle (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+- Computational Intelligence - Module 1 Overview (Noroff)(https://core-noroff.bravais.com/api/dynamic/documentVersions/12442/files/100886/index.html#Item1-12)
+- Computational Intelligence - Module Overview (HTML) (bravais.com)(https://core-noroff.bravais.com/api/dynamic/documentVersions/13502/files/111063/index.html#Item1-10)
+- Data Pre-Processing - Module 2 Overview (Noroff)(https://core-noroff.bravais.com/api/dynamic/documentVersions/13502/files/111063/index.html#Item1-10)
+- Introduction to Data Mining - Module 1 Overview (Noroff)(https://core-noroff.bravais.com/api/dynamic/documentVersions/12442/files/100886/index.html#Item1-12)
+- Matplotlib - Visualization with Python(https://matplotlib.org/)
+- Replacing Missing Values Using Pandas in Python - GeeksforGeeks (https://www.geeksforgeeks.org/replacing-missing-values-using-pandas-in-python/)
+- Decision Trees - Computational Intelligence, Module 2 (Noroff)(https://core-noroff.bravais.com/api/dynamic/documentVersions/13048/files/106817/index.html#Item1-5)
+- ANN - Computational Intelligence, Module 3 Overview (Noroff)(https://core-noroff.bravais.com/api/dynamic/documentVersions/13048/files/106817/index.html#Item1-5)
+- Ensemble Technique - Noroff Module Overview (https://core-noroff.bravais.com/api/dynamic/documentVersions/13048/files/106817/index.html#Item1-5)
+- Jupyter Notebook: An Introduction – Real Python(https://realpython.com/jupyter-notebook-introduction/)
+- Yoga in Daily Life(https://yogaindailylife.org/)
